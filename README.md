@@ -1,2 +1,2 @@
 # PasswordGenerator
-A simple password generator web site,build by using html,css,javaScript
+A simple password generator web site,build by using html,css,javascript
