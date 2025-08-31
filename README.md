@@ -42,13 +42,14 @@ Easily generate strong and random passwords with customizable options.
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/manishinit26/PasswordGenerator.git
-
-
-
-2. Navigate to the Project Folder
+```
+### 2.Navigate to Project Folder
+```bash
 cd PasswordGenerator
 
-3. Open the Project
+```
+
+### Open the Project
 Option 1: Open Directly in Browser
 
 Locate the index.html file in your project folder.
@@ -58,45 +59,9 @@ Double-click to open it in your default browser.
 Option 2: Open in Visual Studio Code
 
 If you have VS Code installed:
-
+```bash
 code .
-
-
-Then right-click index.html and select "Open with Live Server" (requires Live Server extension).
-
-🌐 Live Demo
-
-View on GitHub Pages
-
-(Enable GitHub Pages in your repository settings to activate this link.)
-
-🤝 Contributing
-
-Contributions are welcome!
-Check the issues page
- for ideas.
-
-📜 License
-
-This project is licensed under the MIT License
-
-
-
-⭐ Show Your Support
-
-If you like this project, please give it a star!
-
-
-
+```
+--Then right-click index.html and select "Open with Live Server" (requires Live Server extension).
 ---
 
-### Key Features of This README
-- Badges for repo stats (size, stars, forks, license)
-- Screenshot section with your `image.png`
-- Clear setup instructions (Clone → Navigate → Open)
-- Icons for HTML, CSS, JS
-- Live demo link section
-
----
-
-Would you like me to **add a "Password Strength GIF Demo"** (animated preview) OR **a Dark Mode Preview** as well for extra polish? Or both?
