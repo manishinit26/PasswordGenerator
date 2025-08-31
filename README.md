@@ -22,7 +22,7 @@ Easily generate strong and random passwords with customizable options.
 
 ## 📸 Preview
 
-![App Screenshot](D:\project\PasswordGenerator\assets\image.png)
+![App Screenshot](assets/image.png)
 
 
 ---
