@@ -22,9 +22,8 @@ Easily generate strong and random passwords with customizable options.
 
 ## 📸 Preview
 
-![App Screenshot](assets/preview.png)
+![App Screenshot](D:\project\PasswordGenerator\assets\image.png)
 
-> *Add a screenshot of your project inside the `assets` folder and update the above path.*
 
 ---
 
